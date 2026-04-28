@@ -133,4 +133,4 @@ redis
 Se o Redis cair:
 
 A API continua funcionando
-apenas desempenho perdedor# -cat-logo_de_produtos
+apenas desempenho perdedor
